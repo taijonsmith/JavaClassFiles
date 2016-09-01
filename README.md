@@ -1,2 +1,2 @@
-﻿# cecsjava220
-A collection of java programming assignments from my CECS Java 220 class
+﻿# JavaClassFiles
+A collection of java programming assignments from my CECS Java class
